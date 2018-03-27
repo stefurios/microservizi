@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   influxdb:
-  - created: 2018-03-27T18:55:57.4744217+02:00
+  - created: 2018-03-27T19:01:05.8030297+02:00
     description: Scalable datastore for metrics, events, and real-time analytics.
     digest: 7b650c57e0d2c506d75ac46450f8e5eaf482223049481556b1a46a4839b45b42
     engine: gotpl
@@ -19,11 +19,11 @@ entries:
     version: 0.8.0
   provadsn:
   - apiVersion: v1
-    created: 2018-03-27T18:55:57.4744217+02:00
+    created: 2018-03-27T19:01:05.8040304+02:00
     description: A Helm chart for Kubernetes
-    digest: 995036f36bc4b2183f5878bae58c5f234b02d24f606a1a8088b32943c1658c0f
+    digest: e641102ecdc407bff23353b0c79847cbd622c236903e02ab7c1d21f5e6821d75
     name: provadsn
     urls:
-    - https://stefurios.github.io/microservizi/provadsn-0.1.2.tgz
-    version: 0.1.2
-generated: 2018-03-27T18:55:57.4734215+02:00
+    - https://stefurios.github.io/microservizi/provadsn-0.1.3.tgz
+    version: 0.1.3
+generated: 2018-03-27T19:01:05.8020295+02:00
