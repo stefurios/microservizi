@@ -2,11 +2,28 @@ apiVersion: v1
 entries:
   grafana:
   - apiVersion: v1
-    created: 2018-03-27T11:10:29.504112+02:00
+    created: 2018-03-27T11:39:01.713133+02:00
     description: A Helm chart for Kubernetes
     digest: 3d2a218471330b25ab1d12db53dae0d37f40251097aba1ae300e89c88956a17b
     name: grafana
     urls:
     - https://stefurios.github.io/microservizi/grafana-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-27T11:10:29.5030549+02:00
+  influxdb:
+  - created: 2018-03-27T11:39:01.714133+02:00
+    description: Scalable datastore for metrics, events, and real-time analytics.
+    digest: 7b650c57e0d2c506d75ac46450f8e5eaf482223049481556b1a46a4839b45b42
+    engine: gotpl
+    home: https://www.influxdata.com/time-series-platform/influxdb/
+    keywords:
+    - database
+    maintainers:
+    - email: jack@influxdb.com
+      name: Jack Zampolin
+    name: influxdb
+    sources:
+    - https://github.com/influxdata/influxdb
+    urls:
+    - https://stefurios.github.io/microservizi/influxdb-0.8.0.tgz
+    version: 0.8.0
+generated: 2018-03-27T11:39:01.7120757+02:00
