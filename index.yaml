@@ -1,12 +1,12 @@
 apiVersion: v1
 entries:
-  prova_dsn:
+  grafana:
   - apiVersion: v1
-    created: 2018-03-27T10:54:26.4174937+02:00
+    created: 2018-03-27T11:10:29.504112+02:00
     description: A Helm chart for Kubernetes
-    digest: f720f16deba1eb9f771ddfbeee932773f0759cbcd32d31b86bc25488ab42432c
-    name: prova_dsn
+    digest: 3d2a218471330b25ab1d12db53dae0d37f40251097aba1ae300e89c88956a17b
+    name: grafana
     urls:
-    - https://stefurios.github.io/microservizi/prova_dsn-0.1.0.tgz
+    - https://stefurios.github.io/microservizi/grafana-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-27T10:54:26.416494+02:00
+generated: 2018-03-27T11:10:29.5030549+02:00
